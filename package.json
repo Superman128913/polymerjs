@@ -1,0 +1,30 @@
+{
+  "name": "lit-pagination",
+  "main": "lit-pagination.js",
+  "module": "lit-pagination.js",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klaudeta/lit-pagination.git"
+  },
+  "keywords": [
+    "webcomponent",
+    "pagination",
+    "LitElement"
+  ],
+  "author": "Klaudeta Mertiku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klaudeta/lit-pagination/issues"
+  },
+  "homepage": "https://github.com/Klaudeta/lit-pagination#readme",
+  "dependencies": {
+    "@polymer/iron-iconset-svg": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-icon-button": "^3.0.2",
+    "lit-element": "^2.2.1",
+    "lit-html": "^1.4.1",
+    "lit-pagination": "^1.0.1",
+    "repeat": "^2.0.4"
+  }
+}
